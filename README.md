@@ -2,6 +2,8 @@
 
 Welcome to the AI-Powered Interview Preparation Platform! This platform aims to help students practice for interviews effectively by simulating realistic interview scenarios using the power of AI and language processing. It provides personalized feedback, performance analytics, and a user-friendly interface to enhance interview skills and boost confidence.
 
+[Video](https://drive.google.com/drive/folders/10ZWVhsf09w44F5urZaOVUuDapRMTdPct)
+
 ## Key Features
 
 ### Interview Simulator:-
